@@ -702,7 +702,8 @@ object that will be available to the HeroDetail **Component**.
 The template iterates through each `hero` object of the array in the `$ctrl.heroes` property.
 
 *Remember that the `module.component()` helper automatically provides the **Component's Controller** as
-the `$ctrl` property on the scope of the template.*
+the `$ctrl` property on the scope of the template.*  (What is module.component?  What's a helper?
+What's the '$ctrl' property?)  How about some hyperlinks guys?)
 
 
 ## HeroService
